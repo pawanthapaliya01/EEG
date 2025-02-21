@@ -34,8 +34,16 @@ This repository contains various Jupyter Notebooks and resources focused on diff
 9. wavelet.ipynb
 
     Description: This notebook shows the application of wavelet transforms for signal analysis, which can be used for feature extraction and denoising, especially in EEG signal processing.
+    ![image](https://github.com/user-attachments/assets/5c64eff1-610e-4eef-b31e-c8ca8bdb3f49)
 
-   ![image](https://github.com/user-attachments/assets/c50ab67a-1546-403e-9ce9-67f0bf1c1f39)
+
+    ![image](https://github.com/user-attachments/assets/c50ab67a-1546-403e-9ce9-67f0bf1c1f39)
+  
+   ![image](https://github.com/user-attachments/assets/8301db1e-3498-4f1d-942a-539e482a7ee0)
+   ![image](https://github.com/user-attachments/assets/01dd3f15-7d07-4995-aeba-f0d0bc1bfdc0)
+
+
+
 
 
 Notes:
