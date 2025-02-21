@@ -35,6 +35,9 @@ This repository contains various Jupyter Notebooks and resources focused on diff
 
     Description: This notebook shows the application of wavelet transforms for signal analysis, which can be used for feature extraction and denoising, especially in EEG signal processing.
 
+   ![image](https://github.com/user-attachments/assets/c50ab67a-1546-403e-9ce9-67f0bf1c1f39)
+
+
 Notes:
 
     All files are related to signal processing techniques, machine learning, and EEG analysis.
